@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "testecliente-22bae": {
+      "hosting": {
+        "cliente": [
+          "testecliente-22bae"
+        ]
+      }
+    }
+  }
+}
